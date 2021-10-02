@@ -13,6 +13,6 @@ FIXME
 
 {% include links.md %}
 
-<a href="{{ page.root }}/fig/10.png">
- <img src="{{ page.root }}/fig/10.png" alt="What am I" />
+<a href="{{ page.root }}/fig/2014-11-01 07.16.52.jpg">
+ <img src="{{ page.root }}/fig/2014-11-01 07.16.52.jpg" alt="Kaneohe Bay" />
 </a>
